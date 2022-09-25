@@ -1,6 +1,6 @@
 
 <h1 align="center">Oi👋, Eu sou Alecsander Sticaneli</h1>
-<h3 align="center">Sou estudante de Programação, e quando dei incio aos estudos percebi a facilidade que eu tinha para atender como tudo funcionava e como eu poderia colocar em prática, então decidi me aprofundar no assunto e foi a melhor coisa que fiz, minha evolução é constante, a cada dia que passa aprendo algo novo, meu foco é Backend, porém gosto de ter uma base das outras tecnologias para ficar por dentro.</h3>
+<h3 align="center">Sou estudante de Programação, e quando dei incio aos estudos, percebi a facilidade que eu tinha para atender como tudo funcionava e como eu poderia colocar em prática, então decidi me aprofundar no assunto e foi a melhor coisa que fiz, minha evolução é constante, a cada dia que passa aprendo algo novo, meu foco é Backend, porém gosto de ter uma base das outras tecnologias para ficar por dentro.</h3>
 
 - 🌱 Atualmente eu estou aprendendo **SQL, C, C++, Python, C# e Java**
 
